@@ -1,5 +1,4 @@
 {
-  "homepage": "http://chiaruey.github.io/address-search",
   "name": "address-search",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +19,6 @@
   "scripts": {
     "build_local": "react-scripts build NODE_ENV=local",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build NODE_ENV=production",
     "test": "react-scripts test",
