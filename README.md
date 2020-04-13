@@ -1,5 +1,4 @@
 # Intention
-This project was deployed on the URL: [https://chiaruey.github.io/address-search/]  
 It was created as an exercise of React, @material-ui and Google-Map API  
 The Redux was not used, but useContext was used for managing React state  
 
