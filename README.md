@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ## Intention
 This project was deployed on the URL: [http://zippy-snails.surge.sh/]  
+=======
+# Intention
+>>>>>>> 9c92f4d3b0976b3d2e351a95a27be84647809be7
 It was created as an exercise of React, @material-ui and Google-Map API  
 The Redux was not used, but useContext was used for managing React state  
 
