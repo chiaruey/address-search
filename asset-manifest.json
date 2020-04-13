@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/address-search/static/js/main.a57269c8.chunk.js",
-    "main.js.map": "/address-search/static/js/main.a57269c8.chunk.js.map",
+    "main.js": "/address-search/static/js/main.288582ca.chunk.js",
+    "main.js.map": "/address-search/static/js/main.288582ca.chunk.js.map",
     "runtime-main.js": "/address-search/static/js/runtime-main.3b2555fc.js",
     "runtime-main.js.map": "/address-search/static/js/runtime-main.3b2555fc.js.map",
-    "static/js/2.0ed2c6f8.chunk.js": "/address-search/static/js/2.0ed2c6f8.chunk.js",
-    "static/js/2.0ed2c6f8.chunk.js.map": "/address-search/static/js/2.0ed2c6f8.chunk.js.map",
+    "static/js/2.2c864117.chunk.js": "/address-search/static/js/2.2c864117.chunk.js",
+    "static/js/2.2c864117.chunk.js.map": "/address-search/static/js/2.2c864117.chunk.js.map",
     "index.html": "/address-search/index.html",
-    "precache-manifest.02e966b689e5ecec79496bf5c2b60a17.js": "/address-search/precache-manifest.02e966b689e5ecec79496bf5c2b60a17.js",
+    "precache-manifest.353ebfd362b84a5e8feb7c562b1db819.js": "/address-search/precache-manifest.353ebfd362b84a5e8feb7c562b1db819.js",
     "service-worker.js": "/address-search/service-worker.js",
-    "static/js/2.0ed2c6f8.chunk.js.LICENSE.txt": "/address-search/static/js/2.0ed2c6f8.chunk.js.LICENSE.txt"
+    "static/js/2.2c864117.chunk.js.LICENSE.txt": "/address-search/static/js/2.2c864117.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3b2555fc.js",
-    "static/js/2.0ed2c6f8.chunk.js",
-    "static/js/main.a57269c8.chunk.js"
+    "static/js/2.2c864117.chunk.js",
+    "static/js/main.288582ca.chunk.js"
   ]
 }
